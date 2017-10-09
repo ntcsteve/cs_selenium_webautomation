@@ -1,4 +1,4 @@
-##### Sample code used for Code.Sydney - Web scraping with BeautifulSoup and Pandas
+##### Sample code used for Code.Sydney - Web automation with Selenium
 
 ##### Step 1 : Clone the project
 ##### Step 2 : Run selenium_start.py for the first part of our class (ensure ChromeDriver is working before moving on)
