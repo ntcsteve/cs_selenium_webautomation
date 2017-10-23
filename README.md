@@ -5,6 +5,8 @@
 ##### Step 3 : Run selenium_examples.py for the second part of our class
 ##### Step 4 : Run selenium_coles_testing.py for the full code (testing and extracting values)
 ##### Step 5 : Run selenium_coles_yogurt.py for the full code (workflow automation)
+##### Step 6 : Run any code with headless.py for the last part (advance - headless chrome)
+##### Step 7 : Run selenium_coles_exception.py (advance - headless chrome with expected conditions)
 
 ##### Note : this code is used purely for educational purposes and not tested for production.
 ##### Meetup link 
